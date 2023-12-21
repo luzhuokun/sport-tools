@@ -1,0 +1,16 @@
+{
+  "name": "@sport-tools/schedule",
+  "version": "1.0.0",
+  "description": "sport tools schedule",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./index.ts",
+  "scripts": {},
+  "keywords": [
+    "sport",
+    "berger"
+  ],
+  "author": "",
+  "license": "ISC"
+}

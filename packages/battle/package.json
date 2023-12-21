@@ -1,0 +1,12 @@
+{
+  "name": "@sport-tools/battle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sport-tools/schedule": "workspace:^"
+  }
+}

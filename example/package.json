@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@sport-tools/battle": "workspace:^",
+    "@sport-tools/schedule": "workspace:^"
+  }
+}
